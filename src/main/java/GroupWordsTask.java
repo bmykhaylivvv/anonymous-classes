@@ -32,7 +32,6 @@ public class GroupWordsTask {
                         entry -> entry.getKey(),
                         entry -> entry.getValue()));
 
-
         return map;
     }
 }
